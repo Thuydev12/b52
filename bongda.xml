@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kenhTv>
+       <kenh name="kenhvtv1" group="tonghop" enable="1">
+        <name>Kênh VTV 1</name>
+        <hinhanh>https://upload.wikimedia.org/wikipedia/commons/1/17/VTV1_2013.png</hinhanh>
+        <stream>
+            <link server="getstream1" macdinh="1"><![CDATA[http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV9-HD-1080p/chunks.m3u8]]></link>
+            <link server="getstream1" macdinh="1"><![CDATA[http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/playlist.m3u8]]></link>
+            <link server="getstream1" macdinh="1"><![CDATA[http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/playlist.m3u8]]></link>
+        </stream>
+        <postlogin>
+            <host namepostlogin="Host"><![CDATA[fptplay.net]]></host>
+            <host namepostlogin="Origin"><![CDATA[https://fptplay.net]]></host>
+            <host namepostlogin="Referer"><![CDATA[http://sv.tvmienphi.net/ok/vtc/vtc9show.php]]></host>
+            <host namepostlogin="Upgrade-Insecure-Requests"><![CDATA[1]]></host>
+            <host namepostlogin="User-Agent"><![CDATA[User-Agent","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36]]></host>
+        </postlogin>
+        <querylogin><![CDATA[country_code=VN&phone=01644067250&password=151992&submit=]]></querylogin>
+        <getdata>
+            <host nameget="USER-AGENT"><![CDATA[Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari537.36]]></host>
+        </getdata>
+        <refstream>
+            <host namerefstream="Referer"><![CDATA[https://xem.binhluanvidamme.online/5f99e44858ae7a00185b36e6.html]]></host>
+        </refstream>
+        <postdata>
+            <host namepost="website"><![CDATA[Tvmienphi]]></host>
+            <host namepost="channelname"><![CDATA[vtv3]]></host>
+            <host namepost="body"><![CDATA[<html>]]></host>
+        </postdata>
+        <query><![CDATA[&type=1]]></query>
+    </kenh>
+    <!-- bongdaf-new -->
+        <kenh name="kenhvtv1" group="tonghop" enable="1">
+        <name>Kênh VTV 1 22</name>
+        <hinhanh>https://upload.wikimedia.org/wikipedia/commons/1/17/VTV1_2013.png</hinhanh>
+        <stream>
+            <link server="getstream1" macdinh="1"><![CDATA[http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV9-HD-1080p/chunks.m3u8]]></link>
+            <link server="getstream1" macdinh="1"><![CDATA[http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/playlist.m3u8]]></link>
+            <link server="getstream1" macdinh="1"><![CDATA[http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/playlist.m3u8]]></link>
+        </stream>
+        <postlogin>
+            <host namepostlogin="Host"><![CDATA[fptplay.net]]></host>
+            <host namepostlogin="Origin"><![CDATA[https://fptplay.net]]></host>
+            <host namepostlogin="Referer"><![CDATA[http://sv.tvmienphi.net/ok/vtc/vtc9show.php]]></host>
+            <host namepostlogin="Upgrade-Insecure-Requests"><![CDATA[1]]></host>
+            <host namepostlogin="User-Agent"><![CDATA[User-Agent","Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36]]></host>
+        </postlogin>
+        <querylogin><![CDATA[country_code=VN&phone=01644067250&password=151992&submit=]]></querylogin>
+        <getdata>
+            <host nameget="USER-AGENT"><![CDATA[Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Mobile Safari537.36]]></host>
+        </getdata>
+        <refstream>
+            <host namerefstream="Referer"><![CDATA[https://xem.binhluanvidamme.online/5f99e44858ae7a00185b36e6.html]]></host>
+        </refstream>
+        <postdata>
+            <host namepost="website"><![CDATA[Tvmienphi]]></host>
+            <host namepost="channelname"><![CDATA[vtv3]]></host>
+            <host namepost="body"><![CDATA[<html>]]></host>
+        </postdata>
+        <query><![CDATA[&type=1]]></query>
+    </kenh>
+            <!-- 90phut.live -->
+
+</kenhTv>
